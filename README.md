@@ -1,2 +1,2 @@
 # tasksrv
-Server for Taskcal, in GoLang.
+Server for Taskcal and TaskCalM, in GoLang.
